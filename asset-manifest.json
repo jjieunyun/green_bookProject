@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/green_book_build/static/css/main.c345212d.css",
+    "main.js": "/green_book_build/static/js/main.0392ce18.js",
+    "index.html": "/green_book_build/index.html",
+    "main.c345212d.css.map": "/green_book_build/static/css/main.c345212d.css.map",
+    "main.0392ce18.js.map": "/green_book_build/static/js/main.0392ce18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c345212d.css",
+    "static/js/main.0392ce18.js"
+  ]
+}
